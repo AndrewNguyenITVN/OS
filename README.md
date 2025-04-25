@@ -12,4 +12,5 @@ The practice sessions are designed to strengthen understanding of OS internals t
 
 ## 📌 Notes  
 - This practice content is for educational purposes only.  
-- Students are encouraged to test all programs in a Linux environment. 
+- Students are encouraged to test all programs in a Linux environment.
+- Course do not use Giao_trinh_nguyen_ly_he_dieu_hanh.pdf, I just downloaded it on the Internet.
